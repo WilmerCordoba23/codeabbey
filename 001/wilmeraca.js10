@@ -1,0 +1,6 @@
+let Numero1, Numero2, suma;
+
+suma += Numero1;
+suma += Numero2;
+
+return suma

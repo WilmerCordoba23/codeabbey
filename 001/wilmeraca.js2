@@ -4,4 +4,4 @@ function suma(Numero1, Numero2) {
 
 }
 
-suma(8722, 14788)
+console.log(suma(8722, 14788))

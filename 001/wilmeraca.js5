@@ -1,6 +1,6 @@
 function suma(Numero1, Numero2) {
 
-  return Numero1 + Numero2;
+  console.log(Numero1 + Numero2)
 
 }
 
