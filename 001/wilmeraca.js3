@@ -1,7 +1,0 @@
-function suma(Numero1, Numero2) {
-
- return console.log(Numero1 + Numero2)
-
-}
-
-suma(8722, 14788)
