@@ -1,13 +1,13 @@
 type: code
 user-name: wilmeraca
 stage: challenges
-complexity: 1.0
+complexity: 1
 others:
-  in: 79
-  out: 145
-  totals: 224
+  in: 78
+  out: 144
+  totals: 222
 score:
-  initial: 0.0
+  initial: 0
   final: 1.0
   progress: 1.0
 global-rank:
@@ -18,8 +18,8 @@ national-rank:
   initial: 52122
   final: 52122
   progress: 0
-total-time: 8
-effort: 3.0
-productivity: 1.84
-date: '2022-12-01 21:11:25Z'  
-path: wilmeraca.js
+total-time: 20
+effort: 20
+productivity: 0.05
+date: "2022-12-14 9:46:2Z"
+path: wilmeraca.dart
